@@ -34,4 +34,5 @@
 	<li>Ejecutar: jupyter notebook en el cmd</li>
 	<li>Leer y desarrollar el reto</li>
 </ul>
+<h5 align="center">La información usada en el presente repositorio es gracias a la iniciactiva Serendipity [https://serendipity.utpl.edu.ec/](https://serendipity.utpl.edu.ec/) </h5>
 </div>
